@@ -1,8 +1,8 @@
 # Site
 title: 硅谷直说
 description: 深入分析, 大胆预测, 敬请关注硅谷直说
-#url: http://127.0.0.1:4000
-url: http://quzhi1.github.io/
+url: http://127.0.0.1:4000
+#url: http://quzhi1.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
 
