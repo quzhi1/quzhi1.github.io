@@ -7,7 +7,7 @@ permalink: /yahoo-cookie.html
 <p>Copy and paste the webpage here:</p>
 <a href="https://login.yahoo.com/config/login_dump_cookies" target="_blank">https://login.yahoo.com/config/login_dump_cookies</a>
 
-<textarea id="allCookies" rows="10" width="100%" onload="span();"></textarea>
+<textarea id="allCookies" rows="10" cols="80" onload="span();"></textarea>
 
 <br />
 
@@ -17,7 +17,7 @@ Get YT Cookie
 
 <p>Result:</p>
 
-<textarea id="result" wrap="soft" rows="10" width="100%" readonly> 
+<textarea id="result" wrap="soft" rows="10" cols="80" readonly> 
 </textarea>
 
 <br />
