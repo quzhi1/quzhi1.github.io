@@ -1,16 +1,13 @@
 ---
-layout: post
-title:  Yahoo YT Cookie Header Generator
-date:   2016-09-08
-excerpt: "This is for internal usage. If you can see this, please contact me"
-tag:
-published: false
+layout: page
+title: Yahoo YT Cookie Generator
+sitemap: false
+permalink: /yahoo-cookie.html
 ---
-
 <p>Copy and paste the webpage here:</p>
 <a href="https://login.yahoo.com/config/login_dump_cookies" target="_blank">https://login.yahoo.com/config/login_dump_cookies</a>
 
-<textarea id="allCookies" rows="10" cols="80" onload="span();"></textarea>
+<textarea id="allCookies" rows="10" width="100%" onload="span();"></textarea>
 
 <br />
 
@@ -20,7 +17,7 @@ Get YT Cookie
 
 <p>Result:</p>
 
-<textarea id="result" wrap="soft" rows="10" cols="80" readonly> 
+<textarea id="result" wrap="soft" rows="10" width="100%" readonly> 
 </textarea>
 
 <br />
