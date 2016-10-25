@@ -12,7 +12,7 @@ tag:
 - Vine Voice
 ---
 
-<iframe id="article_iframe" src="http://chuansong.me/n/983370151472" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/23184311" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {

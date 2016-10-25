@@ -16,7 +16,7 @@ tag:
 - 机器人
 ---
 
-<iframe id="article_iframe" src="http://toutiao.com/a6289723299317301506/" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="http://zhuanlan.zhihu.com/p/23183961" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {

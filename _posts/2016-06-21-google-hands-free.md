@@ -12,7 +12,7 @@ tag:
 - 信息安全
 ---
 
-<iframe id="article_iframe" src="http://d.news.163.com/article/BQ3FG0OH000155K8" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="http://zhuanlan.zhihu.com/p/23184072" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {
