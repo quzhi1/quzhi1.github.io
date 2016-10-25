@@ -12,7 +12,7 @@ tag:
 - 三维重建
 ---
 
-<iframe id="article_iframe" src="http://chuansong.me/n/875655051383" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="http://zhuanlan.zhihu.com/p/23184197" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {
