@@ -14,11 +14,4 @@ tag:
 - 头条
 ---
 
-<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/21101937" frameborder="0" allowfullscreen onload="span();"></iframe>
-
-<script>
-function span() {
-    document.getElementById("article_iframe").width=document.getElementsByClassName("block-left")[0].offsetWidth*0.8;
-    document.getElementById("article_iframe").height=screen.height;
-}
-</script>
+<a href="https://zhuanlan.zhihu.com/p/21101937" target="_blank">点击阅读</a>

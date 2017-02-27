@@ -22,3 +22,5 @@ function span() {
     document.getElementById("article_iframe").height=screen.height;
 }
 </script>
+
+<a href="http://m.international.caixin.com/m/2016-05-09/100941109.html" target="_blank">点击阅读</a>
