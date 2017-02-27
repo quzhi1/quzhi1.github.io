@@ -14,7 +14,7 @@ tag:
 - 汽车文化
 ---
 
-<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/21489351?refer=theglobus" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/21489351" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {

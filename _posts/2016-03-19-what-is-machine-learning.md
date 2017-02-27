@@ -12,7 +12,7 @@ tag:
 - DeepMind
 ---
 
-<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/20649890?refer=theglobus" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/20649890" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {
