@@ -12,7 +12,7 @@ tag:
 - 网络中立性原则
 ---
 
-<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/20483361?refer=theglobus" frameborder="0" allowfullscreen onload="span();"></iframe>
+<iframe id="article_iframe" src="https://zhuanlan.zhihu.com/p/20483361" frameborder="0" allowfullscreen onload="span();"></iframe>
 
 <script>
 function span() {

@@ -9,11 +9,4 @@ tag:
 - 社区化
 ---
 
-<iframe id="article_iframe" src="http://chuansong.me/n/856501351851" frameborder="0" allowfullscreen onload="span();"></iframe>
-
-<script>
-function span() {
-    document.getElementById("article_iframe").width=document.getElementsByClassName("block-left")[0].offsetWidth*0.8;
-    document.getElementById("article_iframe").height=screen.height;
-}
-</script>
+<a href="http://www.ximalaya.com/45609467/sound/31486579" target="_blank">点击收听</a>
